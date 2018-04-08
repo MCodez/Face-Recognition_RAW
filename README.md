@@ -21,6 +21,8 @@ Face Recognition using LBPH Face Recognizer using OpenCV 3 and Python 3.6
 
 ### Folders:
 
+Create two folders with names-
+
 1. dataSet - All the dataset images will be stored in this folder with appropriate file name.
 2. trainer - Trainer file (.yml)  will be generated from the dataset images.
 
